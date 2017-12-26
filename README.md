@@ -16,3 +16,7 @@ In the real world, we encounter frequent calls from banks or different entities 
 
 2. Goal:
 To help predict the success of bank telemarketing by using CART, K-Means and Random Forest Algorithm. The classification goal is to predict if the client will subscribe a term deposit 
+
+3. Accomplishment:
+This will help the banks to take an informed decision as to which customers would be interested in their products based on factors such as personal, housing loans and other factors.
+
